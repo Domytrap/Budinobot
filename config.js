@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.owner = [3773883386
+global.owner = [393773883386
   ['390371717717', 'nobody|'],
   ['393518398856', 'nobody|'],
   ['393755775755', 'nobody|'],
